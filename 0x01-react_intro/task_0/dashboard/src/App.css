@@ -1,0 +1,24 @@
+
+.App-header {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  color: red;
+  border-bottom: solid red 2px;
+}
+.App-body {
+  height: 150pt;
+}
+.App-header img {
+  width: 100px;
+  height: 100px;
+}
+
+.App-footer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  border-top: solid red 2px;
+  font-family:'Times New Roman', Times, serif;
+}
